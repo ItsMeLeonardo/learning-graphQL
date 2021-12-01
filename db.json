@@ -1,0 +1,39 @@
+{
+  "persons": [
+    {
+      "name": "John",
+      "lastName": "Doe",
+      "age": 20,
+      "phone": "555-555-5555",
+      "city": "New York",
+      "street": "123 Main Street",
+      "id": 1
+    },
+    {
+      "name": "Jane",
+      "lastName": "Mike",
+      "age": 21,
+      "phone": "11-11-2111",
+      "city": "Lima",
+      "street": "321 South Street",
+      "id": 2
+    },
+    {
+      "name": "Silvia",
+      "lastName": "Smith",
+      "age": 22,
+      "city": "Miami",
+      "street": "456 North Street",
+      "id": 3
+    },
+    {
+      "name": "Peter",
+      "lastName": "Parker",
+      "age": 13,
+      "phone": "333-333-3333",
+      "city": "New York",
+      "street": "789 South Street",
+      "id": 4
+    }
+  ]
+}
